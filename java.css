@@ -1,0 +1,15 @@
+.di{
+    display: flex;
+    
+    justify-content: center;
+    word-spacing: 30px;
+    background-color:cornsilk;
+    
+}
+div{
+    margin: 20px;
+    font-size: 20px;
+    
+
+
+}
